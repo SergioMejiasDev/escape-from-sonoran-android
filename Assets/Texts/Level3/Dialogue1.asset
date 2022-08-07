@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36d0ec2f267dcfd448f3ad6499e17c8d, type: 3}
+  m_Name: Dialogue1
+  m_EditorClassIdentifier: 
+  english: 'I do not understand what has led you to support them in the war. You
+    still have time to repent and go back to your work.
+
+
+    Those guardians you
+    fought with were incompetent, I will not make it so easy for you.'
+  spanish: "No entiendo qu\xE9 te ha llevado a apoyarlos en la guerra. Est\xE1s a
+    tiempo de arrepentirte y volver a tu trabajo.\n\nEsos guardianes a los que has
+    derrotado eran unos incompetentes, yo no te lo pondr\xE9 tan f\xE1cil."

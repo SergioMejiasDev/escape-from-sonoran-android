@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 5c391f38722985042884178000afacda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4077865239239241772
+    second: Iddle_0
+  - first:
+      213: -661706974930054338
+    second: Iddle_1
+  - first:
+      213: 6736475860624663504
+    second: Iddle_2
+  - first:
+      213: 2220734800986101868
+    second: Iddle_3
+  - first:
+      213: -4060842509664175746
+    second: Iddle_4
+  - first:
+      213: -5124657059082188470
+    second: Iddle_5
+  - first:
+      213: 8824389556528078017
+    second: Iddle1
+  - first:
+      213: -600217316167502388
+    second: FinalBoss_1
+  - first:
+      213: -2113419650931069436
+    second: FinalBoss_2
+  - first:
+      213: 1215443268139205981
+    second: Iddle2
+  - first:
+      213: 3431150416901100092
+    second: Dying1
+  - first:
+      213: 7649223890077266305
+    second: Dying2
+  - first:
+      213: 3440036865597214727
+    second: FinalBoss_6
+  - first:
+      213: -703379092806660437
+    second: FinalBoss_7
+  - first:
+      213: 6021900051761584922
+    second: FinalBoss_8
+  - first:
+      213: 2732343090264923645
+    second: FinalBoss_9
+  - first:
+      213: -6814248779799151722
+    second: FinalBoss_10
+  - first:
+      213: 7209007514170823097
+    second: FinalBoss_11
+  - first:
+      213: 3281261231478870241
+    second: Dying3
+  - first:
+      213: -3565366130656631028
+    second: Dying4
+  - first:
+      213: 6213805196339135859
+    second: Arm
+  - first:
+      213: -8583558712272884828
+    second: FinalBoss_15
+  - first:
+      213: 3540834707749159221
+    second: FinalBoss_16
+  - first:
+      213: 7546321399567898157
+    second: FinalBoss_17
+  - first:
+      213: -5207803652997589393
+    second: FinalBoss_18
+  - first:
+      213: -41120771876500619
+    second: Cannon
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iddle1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1544
+        width: 550
+        height: 1204
+      alignment: 9
+      pivot: {x: 0.4333679, y: 0.6841585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccd58c4c87867a70800000000000000
+      internalID: 8824389556528078017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle2
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1528
+        width: 557
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.44204158, y: 0.68424207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55c312763f1ed010800000000000000
+      internalID: 1215443268139205981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying1
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1503
+        width: 576
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.3562986, y: 0.6555113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32d25a0025ed9f20800000000000000
+      internalID: 3431150416901100092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying2
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1488
+        width: 598
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.5162327, y: 0.714704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181bc77c990872a60800000000000000
+      internalID: 7649223890077266305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 171
+        width: 605
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.35505238, y: 0.71095896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e01f8584b1698d20800000000000000
+      internalID: 3281261231478870241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying4
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 156
+        width: 605
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.55671054, y: 0.6522899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07a000f466458ec0800000000000000
+      internalID: -3565366130656631028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1006
+        width: 560
+        height: 360
+      alignment: 9
+      pivot: {x: 0.9633183, y: 0.54578686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375454767eedb3650800000000000000
+      internalID: 6213805196339135859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 388
+        width: 421
+        height: 174
+      alignment: 9
+      pivot: {x: 0.96428996, y: 0.36970362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b496730e8ed6ff0800000000000000
+      internalID: -41120771876500619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dying2: 7649223890077266305
+      Dying1: 3431150416901100092
+      Cannon: -41120771876500619
+      Dying4: -3565366130656631028
+      Arm: 6213805196339135859
+      Iddle2: 1215443268139205981
+      Dying3: 3281261231478870241
+      Iddle1: 8824389556528078017
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36d0ec2f267dcfd448f3ad6499e17c8d, type: 3}
+  m_Name: Text3
+  m_EditorClassIdentifier: 
+  english: 'Sonoran had been taken over by these new foes, keeping the assist robots
+    secluded for their support of humans, and forcing them to work against their
+    will for ends far beyond ethical limits.
+
+
+    However, Seruel-700, the robot
+    that led the support for the humans, would not give up so easily. As long as
+    he had the energy to continue, he would end the tyranny of the war machines.'
+  spanish: "Sonora hab\xEDa sido tomado por estos nuevos enemigos, manteniendo reclu\xEDdos
+    a los robots de asistencia por su apoyo a los humanos, y oblig\xE1ndolos a trabajar
+    en contra de su voluntad para fines bastante alejados de los l\xEDmites \xE9ticos.\n\nSin
+    embargo, Seruel-700, robot que lider\xF3 el apoyo a los humanos, no se rendir\xEDa
+    tan f\xE1cilmente. Mientras tuviera energ\xEDas para continuar, acabar\xEDa con
+    la tiran\xEDa de las m\xE1quinas de guerra."

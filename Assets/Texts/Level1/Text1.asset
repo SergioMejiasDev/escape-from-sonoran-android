@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36d0ec2f267dcfd448f3ad6499e17c8d, type: 3}
+  m_Name: Text1
+  m_EditorClassIdentifier: 
+  english: 'The Sonoran workplace, named for being located under the sands of this
+    desert, had become one of the most technologically advanced places on the planet.
+
+
+    The
+    humans, aided by the assistive robots, had made all of this possible.'
+  spanish: "El centro de trabajo de Sonora, llamado as\xED por ubicarse bajo las
+    arenas del mismo desierto, se hab\xEDa convertido en uno de los lugares m\xE1s
+    avanzados tecnol\xF3gicamente del planeta.\n\nLos humanos, ayudados por los robots
+    de asistencia, hab\xEDan hecho todo esto posible."

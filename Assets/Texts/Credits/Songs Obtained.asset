@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36d0ec2f267dcfd448f3ad6499e17c8d, type: 3}
+  m_Name: Songs Obtained
+  m_EditorClassIdentifier: 
+  english: "Songs obtained from the Freesound online repository (freesound.org),
+    all licensed under CC BY-SA 3.0.\n\nLegend1060 - \"Sci-Fi Theme\"\n\nklavo1985
+    - \"Epic Dramatic Game Music For Online Menu\"\n\nFoolBoyMedia - \"Dramatic Scroller\"\n\nMATRIXXX_
+    - \"The Battle Of Scorpio And Orion\"\n\nX3nus - \"Virtual Relaxation\"\n\nnorangefreesounds
+    - \"Amb - Ambient Music Loop\"\n\ntheojt - \"Underground Ambient\"\n\ngeorgeae2
+    - \"Boss Theme\"\n\nValentinSosnitskiy -  \"\u0414\u0456\u043B\u0435\u044F \u0431\u0430\u0433\u0430\u0442\u043E
+    \u043D\u0435 \u0431\u0443\u0432\u0430\u0454\""
+  spanish: "Canciones obtenidas del repositorio online (freesound.org), todas con
+    licencia CC BY-SA 3.0.\n\nLegend1060 - \"Sci-Fi Theme\"\n\nklavo1985 - \"Epic
+    Dramatic Game Music For Online Menu\"\n\nFoolBoyMedia - \"Dramatic Scroller\"\n\nMATRIXXX_
+    - \"The Battle Of Scorpio And Orion\"\n\nX3nus - \"Virtual Relaxation\"\n\norangefreesounds
+    - \"Amb - Ambient Music Loop\"\n\ntheojt - \"Underground Ambient\"\n\ngeorgeae2
+    - \"Boss Theme\"\n\nValentinSosnitskiy -  \"\u0414\u0456\u043B\u0435\u044F \u0431\u0430\u0433\u0430\u0442\u043E
+    \u043D\u0435 \u0431\u0443\u0432\u0430\u0454\""

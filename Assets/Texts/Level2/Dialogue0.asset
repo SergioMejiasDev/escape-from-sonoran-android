@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36d0ec2f267dcfd448f3ad6499e17c8d, type: 3}
+  m_Name: Dialogue0
+  m_EditorClassIdentifier: 
+  english: 'How did you get here!?
+
+
+    None of you have come that far. Those traps
+    had been effective until now. How the hell did you do it?'
+  spanish: "\xBF!C\xF3mo has llegado hasta aqu\xED!?\n\nNinguno de vosotros hab\xEDa
+    llegado tan lejos. Esas trampas hab\xEDan sido efectivas hasta ahora. \xBFC\xF3mo
+    diablos lo has conseguido?"

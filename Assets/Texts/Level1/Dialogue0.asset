@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36d0ec2f267dcfd448f3ad6499e17c8d, type: 3}
+  m_Name: Dialogue0
+  m_EditorClassIdentifier: 
+  english: 'Well, well... What do we have here? So someone tries to disobey our orders
+    and continue on their own.
+
+
+    You are just an obsolete machine, your place
+    is in this factory.'
+  spanish: "Vaya, vaya... \xBFQu\xE9 tenemos aqu\xED? As\xED que alguien intenta
+    desobedecer nuestras \xF3rdenes y continuar por su cuenta.\n\nSolo eres una m\xE1quina
+    obsoleta, tu lugar est\xE1 en esta f\xE1brica."

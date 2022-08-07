@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 67cb5266a8da2924096c9d5d91f24512
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aimCursor: {fileID: 2800000, guid: a8e95cb52997f8b4fa460849c3214d7b, type: 3}
+  - panelPause: {instanceID: 0}
+  - player: {instanceID: 0}
+  - finalTrigger: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  - gameOverPanel: {instanceID: 0}
+  - logo: {instanceID: 0}
+  - skipText: {instanceID: 0}
+  - dialoguePanel: {instanceID: 0}
+  - fadePanel: {instanceID: 0}
+  - levelTextPanel: {instanceID: 0}
+  - ambientMusic: {instanceID: 0}
+  - transitionMusic: {instanceID: 0}
+  - levelMusic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

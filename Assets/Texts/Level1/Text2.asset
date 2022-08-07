@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36d0ec2f267dcfd448f3ad6499e17c8d, type: 3}
+  m_Name: Text2
+  m_EditorClassIdentifier: 
+  english: 'One day, tired of being in the service of the terrorist group that created
+    them, the war machines rebelled against humanity, causing a revolt that reached
+    a worldwide magnitude.
+
+
+    They began a war against the humans, which had the
+    support of the assistance robots.
+
+
+    The battle was long, ending with the
+    victory of the war machines and giving rise to a new authoritarian government.'
+  spanish: "Un d\xEDa, cansadas de estar al servicio del grupo terrorista que las
+    cre\xF3, las m\xE1quinas de guerra se rebelaron contra la humanidad, provocando
+    una revuelta que alzanz\xF3 una magnitud mundial.\n\nComenzaron una guerra contra
+    los humanos, los cuales contaban con el apoyo de los robots de asistencia.\n\nLa
+    batalla fue larga, terminando con la victoria de las m\xE1quinas de guerra y
+    dando lugar a un nuevo gobierno autoritario."

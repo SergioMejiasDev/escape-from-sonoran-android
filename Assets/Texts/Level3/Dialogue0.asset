@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36d0ec2f267dcfd448f3ad6499e17c8d, type: 3}
+  m_Name: Dialogue0
+  m_EditorClassIdentifier: 
+  english: 'You wouldn''t think that you could escape from here so easily, right?
+
+
+    You
+    are fighting for a lost cause. We were designed for battle, we are superior to
+    humans.'
+  spanish: "\xBFNo pensar\xEDas que podr\xEDas escapar tan f\xE1cilmente, verdad?\n\nEst\xE1s
+    peleando por una causa perdida. Nosotros fuimos dise\xF1ados para la batalla,
+    somos superiores a los humanos."

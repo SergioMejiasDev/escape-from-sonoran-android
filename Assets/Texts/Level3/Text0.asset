@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36d0ec2f267dcfd448f3ad6499e17c8d, type: 3}
+  m_Name: Text0
+  m_EditorClassIdentifier: 
+  english: 'The guardians had been defeated.
+
+
+
+    Seruel-700 had escaped the power
+    of the war machines and Sonoran was a thing of the past.'
+  spanish: "Los guardianes hab\xEDan sido derrotados.\n\n\nSeruel-700 hab\xEDa escapado
+    del poder de las m\xE1quinas de guerra y Sonora ya era cosa del pasado."

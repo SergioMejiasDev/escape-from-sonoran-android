@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36d0ec2f267dcfd448f3ad6499e17c8d, type: 3}
+  m_Name: Dialogue2
+  m_EditorClassIdentifier: 
+  english: 'I see you are stupid enough to carry on.
+
+
+    Soon you will be a piece
+    of junk that no one will remember. Prepare to fight.'
+  spanish: "Veo que eres lo bastante est\xFApido como para continuar.\n\nPronto ser\xE1s
+    un trozo de chatarra al que nadie recordar\xE1. Prep\xE1rate para luchar."
